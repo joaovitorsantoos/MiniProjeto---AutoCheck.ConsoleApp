@@ -40,7 +40,7 @@ namespace AutoCheck.ConsoleApp.Models
             this.Status = status;
         }
 
-        /// Muda o Status do item dependendo da pontuação
+        /// Le o Status do item e retorna a pontuação
         /// 10 = Bom, 5 = Regular, 0 = Ruim
         public int ObterPontuacao()
         {
