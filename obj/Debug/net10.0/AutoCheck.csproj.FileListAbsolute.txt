@@ -1,0 +1,14 @@
+C:\Users\Joao\OneDrive\Documentos\AutoCheck\bin\Debug\net10.0\AutoCheck.exe
+C:\Users\Joao\OneDrive\Documentos\AutoCheck\bin\Debug\net10.0\AutoCheck.deps.json
+C:\Users\Joao\OneDrive\Documentos\AutoCheck\bin\Debug\net10.0\AutoCheck.runtimeconfig.json
+C:\Users\Joao\OneDrive\Documentos\AutoCheck\bin\Debug\net10.0\AutoCheck.dll
+C:\Users\Joao\OneDrive\Documentos\AutoCheck\bin\Debug\net10.0\AutoCheck.pdb
+C:\Users\Joao\OneDrive\Documentos\AutoCheck\obj\Debug\net10.0\AutoCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao\OneDrive\Documentos\AutoCheck\obj\Debug\net10.0\AutoCheck.AssemblyInfoInputs.cache
+C:\Users\Joao\OneDrive\Documentos\AutoCheck\obj\Debug\net10.0\AutoCheck.AssemblyInfo.cs
+C:\Users\Joao\OneDrive\Documentos\AutoCheck\obj\Debug\net10.0\AutoCheck.csproj.CoreCompileInputs.cache
+C:\Users\Joao\OneDrive\Documentos\AutoCheck\obj\Debug\net10.0\AutoCheck.dll
+C:\Users\Joao\OneDrive\Documentos\AutoCheck\obj\Debug\net10.0\refint\AutoCheck.dll
+C:\Users\Joao\OneDrive\Documentos\AutoCheck\obj\Debug\net10.0\AutoCheck.pdb
+C:\Users\Joao\OneDrive\Documentos\AutoCheck\obj\Debug\net10.0\AutoCheck.genruntimeconfig.cache
+C:\Users\Joao\OneDrive\Documentos\AutoCheck\obj\Debug\net10.0\ref\AutoCheck.dll
