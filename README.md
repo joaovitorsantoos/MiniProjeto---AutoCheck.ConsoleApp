@@ -1,2 +1,2 @@
-## MINI PROJETO - AutoCheck.ConsoleApp: Motor de Vistoria Veicular ##
+## Mini Projeto - AutoCheck: Motor de Vistoria Veicular ##
 

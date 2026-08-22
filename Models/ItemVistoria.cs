@@ -25,6 +25,7 @@ namespace AutoCheck.ConsoleApp.Models
                     }
                 }
 
+                // Validação para garantir que o sistema não rode com informações erradas
                 if (!valido)
                 {
                     throw new ArgumentException($"Status inválido: '{value}'. Use 'Bom', 'Regular' ou 'Ruim'.");
@@ -40,8 +41,8 @@ namespace AutoCheck.ConsoleApp.Models
             this.Status = status;
         }
 
-        /// Le o Status do item e retorna a pontuação
-        /// 10 = Bom, 5 = Regular, 0 = Ruim
+        // Le o Status do item e retorna a pontuação
+        // 10 = Bom, 5 = Regular, 0 = Ruim
         public int ObterPontuacao()
         {
             if (Status == "Bom") return 10;
