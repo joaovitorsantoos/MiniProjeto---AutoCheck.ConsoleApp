@@ -9,7 +9,7 @@ namespace AutoCheck.ConsoleApp.Models
         public Carro(string marca, string modelo, int ano, double quilometragem, int quantidadePortas)
             : base(marca, modelo, ano, quilometragem)
         {
-            this.QuantidadePortas = quantidadePortas; // Armazena quantas portas o carro tem
+            this.QuantidadePortas = quantidadePortas; // Armazena quantas portas (propriedade especifica do carro) o carro tem
         }
  
         public override List<string> ObterChecklistObrigatorio()
