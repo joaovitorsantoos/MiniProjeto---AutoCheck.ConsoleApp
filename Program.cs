@@ -187,12 +187,14 @@ namespace AutoCheck.ConsoleApp
             {
                 Console.Write($"  - {nomeItem} [Bom/Regular/Ruim]: ");
                 status = Console.ReadLine();
- 
-                if (status == "Bom" || status == "Regular" || status == "Ruim")
-                {
-                    return status;
-                }
- 
+
+                if (string.Equals(status, "Bom", StringComparison.OrdinalIgnoreCase))
+                    return "Bom";
+                if (string.Equals(status, "Regular", StringComparison.OrdinalIgnoreCase))
+                    return "Regular";
+                if (string.Equals(status, "Ruim", StringComparison.OrdinalIgnoreCase))
+                    return "Ruim";
+
                 Console.WriteLine("    Status inválido. Use exatamente: Bom, Regular ou Ruim.");
             }
         }
