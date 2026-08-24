@@ -80,3 +80,7 @@ MiniProjeto---AutoCheck.ConsoleApp/
 ├── AutoCheck.csproj
 └── README.md
 ```
+
+## Link para vídeo de apresentação
+
+https://drive.google.com/file/d/1RHjSeZPHCF23EHAKA8TZSa3P5QwyRgmn/view?usp=sharing
